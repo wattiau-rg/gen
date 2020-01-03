@@ -1,5 +1,6 @@
 ---
-title: contact
+index: 5
+title: RSVP
 ---
 
 <form action="https://formspree.io/{{ site.email }}" method="POST">

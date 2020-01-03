@@ -1,0 +1,3 @@
+---
+layout: just_wedding
+---
