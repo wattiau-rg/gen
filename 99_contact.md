@@ -23,7 +23,7 @@ title: RSVP
 		</div>
 		<br>
 		<div class="field">
-			<label for="qcar">Will you come by car? If so, where are you travelling from and how many free space would you have?</label>
+			<label for="qcar">Will you come by car?<br>If so, where are you travelling from and how many free space would you have?</label>
 			<textarea name="car" id="car" rows="2"></textarea>
 		</div>
 		<div class="field">
