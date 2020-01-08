@@ -1,6 +1,6 @@
 ---
 index: 4
-title: Useful information
+title: Useful info
 ---
 
 <h4>Speeches and more</h4>
