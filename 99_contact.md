@@ -3,15 +3,32 @@ index: 5
 title: RSVP
 ---
 
-<form action="https://formspree.io/{{ site.email }}" method="POST">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScTwxhZhTH2P7m-alltgd7LccRFVm6DOWTKR49zpxERLth3Pw/formResponse" method="POST">
 	<div class="fields">
 		<div class="field half first">
-			<label for="name">Name</label>
-			<input type="text" name="name" id="name" />
+			<label for="firstname">Firstname</label>
+			<input type="text" name="firstname" id="firstname" />
 		</div>
 		<div class="field half">
+			<label for="lastname">Lastname</label>
+			<input type="text" name="lastname" id="lastname" />
+		</div>
+		<div class="field">
 			<label for="email">Email</label>
 			<input type="text" name="_replyto" id="email" />
+		</div>
+		<div class="field">
+			<label for="qcoming">Will you be there?<br>If so, how many of you?</label>
+			<input type="number" name="coming" min="0" max="10" id="coming" value="0" />
+		</div>
+		<br>
+		<div class="field">
+			<label for="qcar">Will you come by car? If so, where are you travelling from and how many free space would you have?</label>
+			<textarea name="car" id="car" rows="2"></textarea>
+		</div>
+		<div class="field">
+			<label for="qcar">Do you have any food intolerance?</label>
+			<input type="text" id="food" />
 		</div>
 		<div class="field">
 			<label for="message">Message</label>
