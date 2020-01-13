@@ -4,4 +4,4 @@ title: Registry
 target: full,just
 ---
 
-More to come :)
+{% tf 05_registry.md %}
