@@ -16,7 +16,7 @@ icon: fa-diamond # Font Awesome class for your site's icon
 
 # Language settings
 languages: ["en"]
-exclude_from_localizations: [assets]
+exclude_from_localizations: [_sass]
 defaultLang: en
 languageNames:
   fr: Français
