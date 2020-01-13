@@ -1,6 +1,7 @@
 ---
 index: 5
 title: RSVP
+target: full,just
 ---
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScTwxhZhTH2P7m-alltgd7LccRFVm6DOWTKR49zpxERLth3Pw/formResponse" method="POST">

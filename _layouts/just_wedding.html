@@ -10,10 +10,10 @@
 
   <body>
 
-{% include header.html %}
+{% include header_just.html %}
 
 {% for page in site.pages  %}
-{% if page.title %}
+{% if page.title and page.target contains 'just' %}
 
 <!-- {{ page.title }} -->
 <article id="{{ page.index }}">

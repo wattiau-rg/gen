@@ -1,6 +1,7 @@
 ---
 index: 4
 title: Useful info
+target: full,just
 ---
 
 <h4>Speeches and more</h4>

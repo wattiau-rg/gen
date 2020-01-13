@@ -1,6 +1,7 @@
 ---
 index: 3
 title: Getting there
+target: full,just
 ---
 
 <h4>By car</h4>

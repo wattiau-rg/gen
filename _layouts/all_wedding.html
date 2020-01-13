@@ -10,10 +10,10 @@
 
   <body>
 
-{% include header.html %}
+{% include header_full.html %}
 
 {% for page in site.pages  %}
-{% if page.title %}
+{% if page.title and page.target contains 'full' %}
 
 <!-- {{ page.title }} -->
 <article id="{{ page.index }}">

@@ -1,6 +1,7 @@
 ---
 index: 1
 title: Ceremony
+target: full,just
 ---
 
 We are delighted to invite you to celebrate our marriage with us. The ceremony will take place in <a href="https://goo.gl/maps/WJeW6gKCzVGUh4BV7" target="_blank"> St Edmund's Church</a>, Crickhowell on the 24<sup>th</sup> of March 2019 at 1 pm. St Ed's is the church Rebecca and her family have called home for the last 20+ years. The ceremony will be the most important part of our wedding day, in which we will commit ourselves to one another before God, our family and our friends.  Our faith is a central part of both our lives, and will be the foundation of our life as a couple, so our aim is to reflect this in the ceremony.
