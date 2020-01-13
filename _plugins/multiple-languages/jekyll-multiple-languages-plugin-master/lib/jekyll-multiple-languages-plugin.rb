@@ -343,7 +343,7 @@ module Jekyll
       else
         key =            @key
       end
-
+      
       key = Liquid::Template.parse(key).render(context)  # Parses and renders some Liquid syntax on arguments (allows expansions)
 
       site = context.registers[:site] # Jekyll site object
@@ -452,7 +452,6 @@ module Jekyll
       else
         key = @key
       end
-
       key = Liquid::Template.parse(key).render(context)  # Parses and renders some Liquid syntax on arguments (allows expansions)
 
       site = context.registers[:site] # Jekyll site object
