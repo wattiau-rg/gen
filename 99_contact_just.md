@@ -1,10 +1,10 @@
 ---
 index: 5
 title: RSVP
-target: full,just
+target: just
 ---
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScTwxhZhTH2P7m-alltgd7LccRFVm6DOWTKR49zpxERLth3Pw/formResponse" method="POST">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSeh-dIVd9kw4NmeWyEDzyd-GnVBvntoYdtbiZ2EqX-T4OY3Zg/formResponse" method="POST">
 	<div class="fields">
 		<div class="field">
 			<label for="rsvping">I'm RSVPing for *</label>
@@ -30,35 +30,8 @@ target: full,just
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
 		<div class="field">
-			<label for="qcoming">How are you planning on travelling?</label>
-			<p>
-				<input type="radio" id="travelcar" name="entry.1804390083" value="Car">
-				<label for="travelcar">Car</label>
-			</p>
-			<p>
-				<input type="radio" id="travelpublic" name="entry.1804390083" value="Public transport">
-				<label for="travelpublic">Public transport</label>
-			</p>
-		</div>
-		<div class="field">
-			<label for="qcoming">Would you like us to put you in contact with other people to organise lift sharing (or taxi sharing)?</label>
-			<p>
-				<input type="radio" id="contravelyes" name="entry.936402010" value="Yes">
-				<label for="contravelyes">Yes</label>
-			</p>
-			<p>
-				<input type="radio" id="contravelno" name="entry.936402010" value="No">
-				<label for="contravelno">No</label>
-			</p>
-		</div>
-		<div class="field">
-			<label for="wherefrom">If so, where will you be travelling from?</label>
-			<input type="text" name="entry.85772937" id="wherefrom" placeholder=""/>
-		</div>
-		<br>
-		<div class="field">
 			<label for="message">Is there anything else we should know?</label>
-			<textarea name="entry.85772937" id="message" rows="4"></textarea>
+			<textarea name="entry.1514847841" id="message" rows="4"></textarea>
 		</div>
 	</div>
 	<ul class="actions">
