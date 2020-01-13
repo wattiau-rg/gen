@@ -14,6 +14,14 @@ phone: (716) 555-5555
 
 icon: fa-diamond # Font Awesome class for your site's icon
 
+# Language settings
+languages: ["en"]
+exclude_from_localizations: [assets]
+defaultLang: en
+languageNames:
+  fr: Français
+  en: English
+
 # Social settings
 facebook_url:
 github_url:
