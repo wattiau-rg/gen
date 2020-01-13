@@ -3,12 +3,7 @@
 
 	<!-- Header -->
 		<header id="header">
-			<div class="content">
-				<div class="inner">
-					<h1>{{ site.title }}</h1>
-					<p>{{ site.description }}</p>
-				</div>
-			</div>
+			{% include header_content_inner.html %}
 			<nav>
 				<ul>
 					{% for page in site.pages  %}

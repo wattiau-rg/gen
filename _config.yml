@@ -1,7 +1,7 @@
 # Site settings
-title: Rebecca & Gaëtan
+title: site.title
 email: youremailaddress@gmail.com
-description: are getting married
+# description: are getting married
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -16,7 +16,8 @@ icon: fa-diamond # Font Awesome class for your site's icon
 
 # Language settings
 languages: ["en"]
-exclude_from_localizations: [_sass]
+exclude_from_localizations: []
+add_redirect: ["all_wedding.html"]
 defaultLang: en
 languageNames:
   fr: Français

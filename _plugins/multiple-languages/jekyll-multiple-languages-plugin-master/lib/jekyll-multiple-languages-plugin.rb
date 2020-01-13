@@ -23,6 +23,7 @@ module Jekyll
     default_lang = site.config["default_lang"]
     current_lang = site.config["lang"]
     exclude_paths = site.config["exclude_from_localizations"]
+    add_redirect = site.config["add_redirect"]
 
     if (default_lang == current_lang)
       files = Dir.glob(File.join("_site/" + current_lang + "/", "*"))
@@ -34,6 +35,30 @@ module Jekyll
           puts "Moving '" + file_path + "' to '" + new_path + "'"
           File.rename file_path, new_path
         else
+          add_redirect.each do |add_redirect|
+            if (add_redirect == f_path)
+              redirect_path = parts[0] + "/" + f_path
+              redirect_file = File.open(redirect_path, 'w')
+              stripped = f_path.split('.')[0]
+              redirect_file.puts "<!DOCTYPE html>
+<html lang=\"en\">
+<head>
+    <meta charset=\"utf-8\">
+    <title>Amazing Example Website</title>
+</head>
+<body>
+<script>
+    var lang = navigator.language || navigator.userLanguage;
+    if (lang.indexOf('fr') == 0)
+        window.location = '/fr/"+ stripped + "';
+    else
+        window.location = '/en/" + stripped + "';
+</script>
+</body>
+</html>"
+              redirect_file.close
+            end
+          end
           exclude_paths.each do |exclude_path|
             if (exclude_path == f_path)
               new_path = parts[0] + "/" + f_path
