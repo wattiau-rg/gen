@@ -23,6 +23,11 @@ languageNames:
   fr: Français
   en: English
 
+
+# Translation keys
+# 01_ceremony:
+#  title: 01_ceremony.title
+
 # Social settings
 facebook_url:
 github_url:

@@ -1,6 +1,7 @@
 ---
 index: 3
-title: Getting there
+title: pages.03_getting_there
+title2: pages.03_getting_there
 target: full,just
 ---
 

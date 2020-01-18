@@ -1,6 +1,7 @@
 ---
 index: 6
-title: Registry
+title: pages.05_registry
+title2: pages.05_registry
 target: full,just
 ---
 

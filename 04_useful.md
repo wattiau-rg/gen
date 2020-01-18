@@ -1,6 +1,7 @@
 ---
 index: 4
-title: Useful info
+title: pages.04_useful
+title2: pages.04_useful
 target: full,just
 ---
 

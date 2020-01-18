@@ -1,6 +1,4 @@
----
-t_title: Ceremony
----
+
 We are delighted to invite you to celebrate our marriage with us. The ceremony will take place in <a href="https://goo.gl/maps/WJeW6gKCzVGUh4BV7" target="_blank">St Edmund's Church</a>, Crickhowell on the 18<sup>th</sup> of April 2020 at 1 pm. St Ed's is the church Rebecca and her family have called home for the last 20+ years. The ceremony will be the most important part of our wedding day, in which we will commit ourselves to one another before God, our family and our friends.  Our faith is a central part of both our lives, and will be the foundation of our life as a couple, so our aim is to reflect this in the ceremony.
 <br><br>
 The service should last around an hour. During this time, as well as the “I dos”, we will praise God by singing together, by hearing readings from the Bible, as well as a short address, and by praying for Rebecca and Gaëtan as they start their married life. In the “marriage” part of the service, we will make our vows to one another, and will exchange rings as a visual reminder of the promises we’ve made. You can find more information about what exactly we’re signing ourselves up for on the <a href="https://www.churchinwales.org.uk/en/life-events/weddings/" target = "_blank"> Church in Wales website</a>.

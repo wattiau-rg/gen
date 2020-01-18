@@ -1,3 +1,13 @@
 site:
   title: Rebecca & Gaëtan
   description: are getting married
+
+pages:
+  01_ceremony: Ceremony
+  02_reception_all: Reception
+  02_reception_just: Reception
+  03_getting_there: Getting there
+  04_useful: Useful info
+  05_registry: Registry
+  99_contact_full: RSVP
+  99_contact_just: RSVP

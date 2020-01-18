@@ -1,7 +1,3 @@
----
-t_title: Cérémonie
----
-
 Nous sommes heureux de vous inviter à célebrer notre marriage. La cérémonie se déroulera le 18 Avril 2020 à 13h à l'<a href="https://goo.gl/maps/WJeW6gKCzVGUh4BV7" target="_blank">église St Edmund</a> à Crickhowell. St Ed' a été l'église de Rebecca depuis plus de 20 ans. Durant la cérémonie, nous échangerons nos vœux.
 We are delighted to invite you to celebrate our marriage with us. The ceremony will take place in <a href="https://goo.gl/maps/WJeW6gKCzVGUh4BV7" target="_blank">St Edmund's Church</a>, Crickhowell on the 18<sup>th</sup> of April 2020 at 1 pm. St Ed's is the church Rebecca and her family have called home for the last 20+ years. The ceremony will be the most important part of our wedding day, in which we will commit ourselves to one another before God, our family and our friends.  Our faith is a central part of both our lives, and will be the foundation of our life as a couple, so our aim is to reflect this in the ceremony.
 <br><br>

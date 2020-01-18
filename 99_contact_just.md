@@ -1,6 +1,7 @@
 ---
 index: 5
-title: RSVP
+title: pages.99_contact_just
+title2: pages.99_contact_just
 target: just
 ---
 

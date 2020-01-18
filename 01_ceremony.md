@@ -1,6 +1,7 @@
 ---
 index: 1
-title: Ceremony
+title: pages.01_ceremony
+title2: pages.01_ceremony
 target: full,just
 ---
 

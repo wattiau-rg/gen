@@ -1,6 +1,7 @@
 ---
 index: 2
-title: Reception
+title: pages.02_reception_just
+title2: pages.02_reception_just
 target: just
 ---
 
