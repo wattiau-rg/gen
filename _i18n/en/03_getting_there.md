@@ -6,7 +6,7 @@ There is also plenty of parking available opposite the village hall in <a href="
 If you’re taking a car and have a spare seat or two, we’d be really grateful if you could let us know via the RSVP form, as we may be able to arrange lift shares. Our grandchildren will thank you.
 <br><br>
 <h4>By train</h4>
-The nearest train station to Crickhowell is Abergavenny, which is about a 15 minute drive away. A taxi from the station is probably your best bet. Feel free to let us know via the contact form if you are relying on public transport, and we’ll do our best to pair you up with a four-wheeled guest, or put you in touch with other guests so you can share a taxi. Please note that Uber has not yet reached Abergavenny, and it is advisable to book taxis in advance! 
+The nearest train station is Abergavenny, which is about a 15 minute drive from Crickhowell. A taxi from the station is probably your best bet. Feel free to let us know via the contact form if you are relying on public transport, and we’ll do our best to pair you up with a four-wheeled guest, or put you in touch with other guests so you can share a taxi. Please note that Uber has not yet reached Abergavenny, and it is advisable to book taxis in advance! 
 
 It's also worth noting that the trains don’t run hugely late around here! We’ve put some accommodation information on the site in case you’d like to make a weekend of it (that way we get to enjoy even more time with you!). 
 <br><br>
