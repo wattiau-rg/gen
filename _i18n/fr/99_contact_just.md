@@ -1,30 +1,30 @@
 <form action="https://docs.google.com/forms/d/e/1FAIpQLSeh-dIVd9kw4NmeWyEDzyd-GnVBvntoYdtbiZ2EqX-T4OY3Zg/formResponse" method="POST">
 	<div class="fields">
 		<div class="field">
-			<label for="rsvping">I'm RSVPing for *</label>
-			<textarea name="entry.559352220" id="rsvping" rows="2" placeholder="Please include any children in your answer too!"></textarea>
+			<label for="rsvping">Je réponds de la part de *</label>
+			<textarea name="entry.559352220" id="rsvping" rows="2" placeholder="N'oubliez pas vos enfants !"></textarea>
 		</div>
 		<div class="field">
-			<label for="email">Email *</label>
+			<label for="email">Adresse mail *</label>
 			<input type="text" name="entry.443565211" id="email" placeholder=""/>
 		</div>
 		<div class="field">
-			<label for="qcoming">First things first, are you planning on attending the wedding? *</label>
+			<label for="qcoming">Tout d'abord, pouvez-vous venir à notre mariage ? *</label>
 			<p>
 				<input type="radio" id="comingyes" name="entry.994465564" value="Yes">
-				<label for="comingyes">Yes</label>
+				<label for="comingyes">Oui</label>
 			</p>
 			<p>
 				<input type="radio" id="comingno" name="entry.994465564" value="No">
-				<label for="comingno">No</label>
+				<label for="comingno">Non</label>
 			</p>
 		</div>
 		<div class="field">
-			<label for="food">Do you have any allergies or intolerances we should be aware of?</label>
+			<label for="food">Avez-vous une allergié ou une intolérance dont il faut qu'on soit au courant ?</label>
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
 		<div class="field">
-			<label for="message">Is there anything else we should know?</label>
+			<label for="message">Autre chose à nous dire ?</label>
 			<textarea name="entry.1514847841" id="message" rows="4"></textarea>
 		</div>
 	</div>
