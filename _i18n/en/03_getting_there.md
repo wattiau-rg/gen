@@ -15,6 +15,6 @@ If you’re travelling in from France there are a few options available to you:
 
 The nearest airports are Cardiff and Bristol (both have direct flights from Paris CDG, and are just over an hour’s drive from Abergavenny). There are public transport links from the airport into the city, and then trains from Cardiff and Bristol to Abergavenny.
 
-The Eurostar will take you from Paris into London. A train from London to Abergavenny takes about 2½ - 3 hours.
+The Eurostar will take you from Paris or Lille into London. A train from London to Abergavenny takes about 2½ - 3 hours.
 
 If you’re planning on bringing a car, the shuttle will take you to Folkestone, which is about a 4 hour drive from Abergavenny. Ferry routes include Calais to Dover (4 hours drive from Abergavenny), or Caen/Le Havre to Portsmouth (2¾ - 3 hours drive from Abergavenny).  
