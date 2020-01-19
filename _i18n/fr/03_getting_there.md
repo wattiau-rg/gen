@@ -13,9 +13,9 @@ Le service de train finit relativement tôt dans la soirée. Dans la section "In
 <br><br>
 <h4>Depuis l'étranger</h4>
 Si vous venez depuis la France, il y a plusieurs options possibles:
+<br>
+Les aéroports les plus proches sont Cardiff et Bristol qui sont accessibles par des vols directs depuis Paris et à une heure de voiture d'Avergavenny seulement. En transport en commun, il faut prendre la navette de l'aéroport à la gare centrale de Cardiff ou Bristol et ensuite le train jusqu'à Abergavenny. 
 
-The nearest airports are Cardiff and Bristol (both have direct flights from Paris CDG, and are just over an hour’s drive from Abergavenny). There are public transport links from the airport into the city, and then trains from Cardiff and Bristol to Abergavenny.
+L'Eurostar vous amène à Londres depuis Paris ou Lille. Ensuite le train de Londres à Aberganny dure environ 2 heures et demi à 3 heures.
 
-The Eurostar will take you from Paris into London. A train from London to Abergavenny takes about 2½ - 3 hours.
-
-If you’re planning on bringing a car, the shuttle will take you to Folkestone, which is about a 4 hour drive from Abergavenny. Ferry routes include Calais to Dover (4 hours drive from Abergavenny), or Caen/Le Havre to Portsmouth (2¾ - 3 hours drive from Abergavenny).  
+Si vous venez en voiture, le tunnel sous la Manche vous amène à Folkestone, qui est à peu près à 4 heures de route d'Abergavenny. Les traversées de ferry les plus pratiques sont Le Havre/Caen - Portsmouth (3 heures de route d'Abergavenny) et Dunkerke/Calais - Dover (4 heures de route d'Abergavenny).
