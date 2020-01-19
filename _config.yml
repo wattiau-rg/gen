@@ -17,7 +17,7 @@ icon: fa-diamond # Font Awesome class for your site's icon
 # Language settings
 languages: ["en", "fr"] 
 exclude_from_localizations: []
-add_redirect: ["all_wedding.html", "just_wedding.html"]
+add_redirect: ["cwtch.html", "wysg.html"]
 defaultLang: en
 languageNames:
   fr: Français
