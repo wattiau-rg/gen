@@ -1,57 +1,57 @@
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScTwxhZhTH2P7m-alltgd7LccRFVm6DOWTKR49zpxERLth3Pw/formResponse" method="POST">
 	<div class="fields">
 		<div class="field">
-			<label for="rsvping">I'm RSVPing for *</label>
-			<textarea name="entry.559352220" id="rsvping" rows="2" placeholder="Please include any children in your answer too!"></textarea>
+			<label for="rsvping">Je réponds de la part de *</label>
+			<textarea name="entry.559352220" id="rsvping" rows="2" placeholder="N'oubliez pas vos enfants !"></textarea>
 		</div>
 		<div class="field">
-			<label for="email">Email *</label>
+			<label for="Adresse mail">Email *</label>
 			<input type="text" name="entry.443565211" id="email" placeholder=""/>
 		</div>
 		<div class="field">
-			<label for="qcoming">First things first, are you planning on attending the wedding? *</label>
+			<label for="qcoming">Tout d'abord, pouvez-vous venir à notre mariage ? *</label>
 			<p>
 				<input type="radio" id="comingyes" name="entry.994465564" value="Yes">
-				<label for="comingyes">Yes</label>
+				<label for="comingyes">Oui</label>
 			</p>
 			<p>
 				<input type="radio" id="comingno" name="entry.994465564" value="No">
-				<label for="comingno">No</label>
+				<label for="comingno">Non</label>
 			</p>
 		</div>
 		<div class="field">
-			<label for="food">Do you have any allergies or intolerances we should be aware of?</label>
+			<label for="food">Avez-vous une allérgie ou une intolérance dont il faut qu'on soit au courant ?</label>
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
 		<div class="field">
-			<label for="qcoming">How are you planning on travelling?</label>
+			<label for="qcoming">Comment pensez-vous faire le traket ?</label>
 			<p>
 				<input type="radio" id="travelcar" name="entry.1804390083" value="Car">
-				<label for="travelcar">Car</label>
+				<label for="travelcar">En voiture</label>
 			</p>
 			<p>
 				<input type="radio" id="travelpublic" name="entry.1804390083" value="Public transport">
-				<label for="travelpublic">Public transport</label>
+				<label for="travelpublic">En transport en commun</label>
 			</p>
 		</div>
 		<div class="field">
-			<label for="qcoming">Would you like us to put you in contact with other people to organise lift sharing (or taxi sharing)?</label>
+			<label for="qcoming">Est-ce que ça vous intéresserait qu'on vous mette en contact avec d'autres personnes pour organiser une covoiturage (ou pour partager un taxi) ?</label>
 			<p>
 				<input type="radio" id="contravelyes" name="entry.936402010" value="Yes">
-				<label for="contravelyes">Yes</label>
+				<label for="contravelyes">Oui</label>
 			</p>
 			<p>
 				<input type="radio" id="contravelno" name="entry.936402010" value="No">
-				<label for="contravelno">No</label>
+				<label for="contravelno">Non</label>
 			</p>
 		</div>
 		<div class="field">
-			<label for="wherefrom">If so, where will you be travelling from?</label>
+			<label for="wherefrom">Le cas échéant, vous voyagez d'où ?</label>
 			<input type="text" name="entry.85772937" id="wherefrom" placeholder=""/>
 		</div>
 		<br>
 		<div class="field">
-			<label for="message">Is there anything else we should know?</label>
+			<label for="message">Autre chose à nous dire ?</label>
 			<textarea name="entry.1514847841" id="message" rows="4"></textarea>
 		</div>
 	</div>
