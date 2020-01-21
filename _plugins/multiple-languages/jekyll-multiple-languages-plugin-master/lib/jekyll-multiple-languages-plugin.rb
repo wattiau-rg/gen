@@ -93,7 +93,8 @@ module Jekyll
     if default_lang != current_lang
 
       static_files.delete_if do |static_file|
-        if (static_file.name == 'base.html')
+        f_path = File.basename(static_file.path)
+        if (f_path == 'base.html')
           true
         else
           # Remove "/" from beginning of static file relative path
