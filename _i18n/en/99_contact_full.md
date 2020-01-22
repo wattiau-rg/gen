@@ -20,6 +20,17 @@
 			</p>
 		</div>
 		<div class="field">
+			<label for="qeve">Are you staying for the evening? *</label>
+			<p>
+				<input type="radio" id="eveyes" name="entry.934821120" value="Yes">
+				<label for="eveyes">Yes</label>
+			</p>
+			<p>
+				<input type="radio" id="eveno" name="entry.934821120" value="No">
+				<label for="eveno">No</label>
+			</p>
+		</div>
+		<div class="field">
 			<label for="food">Do you have any allergies or intolerances we should be aware of?</label>
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
