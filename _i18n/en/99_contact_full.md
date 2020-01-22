@@ -20,7 +20,7 @@
 			</p>
 		</div>
 		<div class="field">
-			<label for="qeve">Are you staying for the evening? *</label>
+			<label for="qeve">Are you staying for the evening? We're using this to estimate the required amount of evening food, so you can change your mind later. *</label>
 			<p>
 				<input type="radio" id="eveyes" name="entry.934821120" value="Yes">
 				<label for="eveyes">Yes</label>
