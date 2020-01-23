@@ -1,0 +1,20 @@
+<!-- Wrapper -->
+<div id="wrapper">
+
+	<!-- Header -->
+		<header id="header">
+			{% include header_content_inner.html %}
+			<nav>
+				<ul>
+					{% for page in site.pages  %}
+					{% if page.title and page.target contains 'france' %}
+					<!-- page.path is: {{ page.path }} -->
+					<li><a href="#{{ page.index }}">{% t page.title %}</a></li>
+					{% endif %}
+					{% endfor %}
+				</ul>
+			</nav>
+		</header>
+
+	<!-- Main -->
+		<div id="main">
