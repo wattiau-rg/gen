@@ -20,7 +20,7 @@
 			</p>
 		</div>
 		<div class="field">
-			<label for="food">Do you have any allergies or intolerances we should be aware of?</label>
+			<label for="food">Do you have any dietary requirements we should be aware of?</label>
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
 		<div class="field">
