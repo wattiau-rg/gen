@@ -35,7 +35,7 @@
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
 		<div class="field">
-			<label for="qcoming">Comment pensez-vous faire le traket ?</label>
+			<label for="qcoming">Comment pensez-vous faire le trajet ?</label>
 			<p>
 				<input type="radio" id="travelcar" name="entry.1804390083" value="Car">
 				<label for="travelcar">En voiture</label>
