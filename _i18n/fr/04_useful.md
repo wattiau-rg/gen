@@ -1,6 +1,6 @@
 <h4>Discours etc.</h4>
 Nous sommes motivés à inclure à la fois des traditions brittaniques et françaises dans notre mariage. Par conséquent, il y aura des discours "brittaniques" ainsi que des animations "françaises". Cette partie de la réception consiste traditionellement de trois courts discours, dont le premier du père de la mariée, le deuxième du témoin, et le dernier du marié. Ceci dit, on ne promet pas de respecter parfaitement les traditions !)
-Pour ceux qui souhaitent présenter une animation, merci de contacter Joël Gay (joel.gay01+gwed at gmail.com).
+Pour ceux qui souhaitent présenter une animation, merci de contacter Joël Gay (joel.gay01+gwed@gmail.com).
 
 <h4>Est-ce ça vaut le coup de rester tout un weekend (ou bien plus)?</h4>
 

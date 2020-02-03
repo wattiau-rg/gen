@@ -1,5 +1,5 @@
 <h4>Speeches and more</h4>
-We are very keen to incorporate both British and French traditions in our wedding. So in addition to the wedding toasts, we will be having what the French call "animations". They are short pieces - sketches, songs, musicals, games, videos, embarrassing photo compilations etc. - prepared by friends and family for the bride, the groom and the other guests. If you have an idea and would like to volunteer, please contact Joël Gay (joel.gay01+gwed at gmail.com).
+We are very keen to incorporate both British and French traditions in our wedding. So in addition to the wedding toasts, we will be having what the French call "animations". They are short pieces - sketches, songs, musicals, games, videos, embarrassing photo compilations etc. - prepared by friends and family for the bride, the groom and the other guests. If you have an idea and would like to volunteer, please contact Joël Gay (joel.gay01+gwed@gmail.com).
 
 <h4>Should I make a week-end of it?</h4>
 
