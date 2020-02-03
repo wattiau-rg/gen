@@ -3,11 +3,11 @@ Il y a deux routes principales qui mènent à Crickhowell. La première est la A
 Pour la cérémonie vous pourrez vous garer à <a href="https://goo.gl/maps/fyCu72SiyPQVkGt38" target="_blank">High School car park</a>, juste en face de l'église.
 Il y a un parking juste en face de la <a href="https://goo.gl/maps/yNKXqo35Jp3dwGtZA" target="_blank">salle des fêtes de LLangynidr</a>.
 
-Si vous venez en voiture et que vous avez des places supplémentaires, dîtes le nous dans le formulaire de réponse pour que l'on puisse organiser du covoiturage.
+Si vous venez en voiture et que vous avez des places supplémentaires, dites-le nous dans le formulaire de réponse pour que l'on puisse organiser du covoiturage.
 <br><br>
 
 <h4>En train</h4>
-La station de train la plus proche est Abergavenny, qui est à peu près à 15 minutes de voiture de Crickhowell. Le plus simple serait de prendre un taxi de la gare jusqu'à Crickhowell. Si vous prenez les transports en commun, dîtes-le nous dans le formulaure de réponse et on essaiera de vous trouvrer un autre invité motorisé ou vous permettre de partager un taxi. Uber n'est pas disponible à Abergavenny et il peut être préférable de réserver un taxi à l'avance.
+La station de train la plus proche est Abergavenny, qui est à peu près à 15 minutes de voiture de Crickhowell. Le plus simple est de prendre un taxi de la gare jusqu'à Crickhowell. Si vous prenez les transports en commun, dites-le nous dans le formulaire de réponse et on essaiera de vous trouvrer un autre invité motorisé ou vous permettre de partager un taxi. Uber n'est pas disponible à Abergavenny et il peut être préférable de réserver un taxi à l'avance.
 
 Le service de train finit relativement tôt dans la soirée. Dans la section "Infos Pratiques", vous pourrez trouver une liste de logements si vous souhaitez rester le week-end.
 <br><br>
@@ -18,4 +18,4 @@ Les aéroports les plus proches sont Cardiff et Bristol qui sont accessibles par
 
 L'Eurostar vous amène à Londres depuis Paris ou Lille. Ensuite le train de Londres à Aberganny dure environ 2 heures et demi à 3 heures.
 
-Si vous venez en voiture, le tunnel sous la Manche vous amène à Folkestone, qui est à peu près à 4 heures de route d'Abergavenny. Les traversées de ferry les plus pratiques sont Le Havre/Caen - Portsmouth (3 heures de route d'Abergavenny) et Dunkerke/Calais - Dover (4 heures de route d'Abergavenny).
+Si vous venez en voiture, le tunnel sous la Manche vous amène à Folkestone, qui est à peu près à 4 heures de route d'Abergavenny. Les traversées de ferry les plus pratiques sont Le Havre/Caen - Portsmouth (3 heures de route d'Abergavenny) et Dunkerque/Calais - Dover (4 heures de route d'Abergavenny).

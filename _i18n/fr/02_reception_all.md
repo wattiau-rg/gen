@@ -1,3 +1,3 @@
-Après la cérémonie, vous êtes chaleureusement invité à nous rejoindre pour partager un repas à partir de 15h30 à <a href="https://goo.gl/maps/pQNvSBXcm5WxEPhc9" target="_blank">Llangynidr Village Hall</a>. Après le repas, à partir de 19h30, nous organiserons un twmpath (bal populaire Gallois) servirons le plateau de fromage et de spécialités galloises, suivi par encore plus de danse dans la soirée.
+Après la cérémonie, vous êtes chaleureusement invité à nous rejoindre pour partager un repas à partir de 15h30 à <a href="https://goo.gl/maps/pQNvSBXcm5WxEPhc9" target="_blank">Llangynidr Village Hall</a>. Après le repas, à partir de 19h30, nous organiserons un twmpath (bal populaire gallois) servirons le plateau de fromage et de spécialités galloises, suivi par encore plus de danse dans la soirée.
 <br><br>
-Si vous avez des allergies ou des préférences alimentaires, dîtes-le nous en répondant au formulaire.
+Si vous avez des allergies ou des préférences alimentaires, dites-le nous en répondant au formulaire.
