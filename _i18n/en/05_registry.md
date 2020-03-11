@@ -5,4 +5,4 @@ The number of our gift registry is 782429. It is open now until around 2 weeks a
 As many of you will know, we are still fairly mobile housing-wise, but are hoping to set up a more permanent base soon. If you would prefer to give a cash gift, we will put this either towards some larger items which we will not be buying straight away (e.g. white goods) or towards some more bespoke items (from local craftsmen where possible) which will help us build our home. We will also donate a proportion of the total to charity.<br>
 If you would prefer to do this via online transfer, the account details are:<br>
 Sort code :40-14-13 Account number: 23939219<br>
-Please don't forget to put your name in the reference so we can thank you!<br>
+Please don't forget to put your name in the reference so we can thank you!
