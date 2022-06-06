@@ -41,6 +41,13 @@
 	<div id="bg"></div>
 
 	<!-- Scripts -->
+	<script>
+		var lang = navigator.language || navigator.userLanguage;
+		if (lang.indexOf('fr') == 0)
+			window.location = '/fr/info';
+		else
+			window.location = '/en/info';
+	</script>
 	<script src="assets/js/jquery.min.js"></script>
 	<script src="assets/js/skel.min.js"></script>
 	<script src="assets/js/util.js"></script>
