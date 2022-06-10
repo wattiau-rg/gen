@@ -3,7 +3,6 @@ Il y a deux routes principales qui mènent à Crickhowell. La première est la A
 Pour la cérémonie vous pourrez vous garer à <a href="https://goo.gl/maps/fyCu72SiyPQVkGt38" target="_blank">High School car park</a>, juste en face de l'église.
 Il y a un parking juste en face de la <a href="https://goo.gl/maps/yNKXqo35Jp3dwGtZA" target="_blank">salle des fêtes de LLangynidr</a>.
 
-Si vous venez en voiture et que vous avez des places supplémentaires, dites-le nous dans le formulaire de réponse pour que l'on puisse organiser du covoiturage.
 <br><br>
 
 <h4>En train</h4>
@@ -14,7 +13,7 @@ Le service de train finit relativement tôt dans la soirée. Dans la section "In
 <h4>Depuis l'étranger</h4>
 Si vous venez depuis la France, il y a plusieurs options possibles:
 <br>
-Les aéroports les plus proches sont Cardiff et Bristol qui sont accessibles par des vols directs depuis Paris et à une heure de voiture d'Avergavenny seulement. En transport en commun, il faut prendre la navette de l'aéroport à la gare centrale de Cardiff ou Bristol et ensuite le train jusqu'à Abergavenny. 
+L'aeroport le plus proches est Bristol, accessible par des vols directs depuis Paris et à une heure de voiture d'Abergavenny seulement. En transport en commun, il faut prendre la navette de l'aéroport à la gare centrale de Cardiff ou Bristol et ensuite le train jusqu'à Abergavenny. 
 
 L'Eurostar vous amène à Londres depuis Paris ou Lille. Ensuite le train de Londres à Aberganny dure environ 2 heures et demi à 3 heures.
 
