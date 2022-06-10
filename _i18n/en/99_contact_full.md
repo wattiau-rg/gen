@@ -1,4 +1,4 @@
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScTwxhZhTH2P7m-alltgd7LccRFVm6DOWTKR49zpxERLth3Pw/formResponse" method="POST">
+<form action="https://docs.google.com/forms/d/e/1FAIpQLSdoDt3sQmuKod12ocUN5DjcF5kKHuYGTrLGAnTZLyEYFHD4Vg/formResponse" method="POST">
 	<div class="fields">
 		<div class="field">
 			<label for="rsvping">I'm RSVPing for *</label>
@@ -20,47 +20,9 @@
 			</p>
 		</div>
 		<div class="field">
-			<label for="qeve">Are you staying for the evening? We're using this to estimate the required amount of evening food, so you can change your mind later. *</label>
-			<p>
-				<input type="radio" id="eveyes" name="entry.934821120" value="Yes">
-				<label for="eveyes">Yes</label>
-			</p>
-			<p>
-				<input type="radio" id="eveno" name="entry.934821120" value="No">
-				<label for="eveno">No</label>
-			</p>
-		</div>
-		<div class="field">
 			<label for="food">Do you have any dietary requirements we should be aware of?</label>
 			<input type="text" id="food" name="entry.1751303409"/>
 		</div>
-		<div class="field">
-			<label for="qcoming">How are you planning on travelling?</label>
-			<p>
-				<input type="radio" id="travelcar" name="entry.1804390083" value="Car">
-				<label for="travelcar">Car</label>
-			</p>
-			<p>
-				<input type="radio" id="travelpublic" name="entry.1804390083" value="Public transport">
-				<label for="travelpublic">Public transport</label>
-			</p>
-		</div>
-		<div class="field">
-			<label for="qcoming">Would you like us to put you in contact with other people to organise lift sharing (or taxi sharing)?</label>
-			<p>
-				<input type="radio" id="contravelyes" name="entry.936402010" value="Yes">
-				<label for="contravelyes">Yes</label>
-			</p>
-			<p>
-				<input type="radio" id="contravelno" name="entry.936402010" value="No">
-				<label for="contravelno">No</label>
-			</p>
-		</div>
-		<div class="field">
-			<label for="wherefrom">If so, where will you be travelling from?</label>
-			<input type="text" name="entry.85772937" id="wherefrom" placeholder=""/>
-		</div>
-		<br>
 		<div class="field">
 			<label for="message">Is there anything else we should know?</label>
 			<textarea name="entry.1514847841" id="message" rows="4"></textarea>
